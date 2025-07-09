@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|d:\\if\\etc\\webhook\\test\\webhooktest\\webhooktest\\services\\webhookdispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|solutionrelative:webhooktest\\services\\webhookdispatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|d:\\if\\etc\\webhook\\test\\webhooktest\\webhooktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|solutionrelative:webhooktest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|d:\\if\\etc\\webhook\\test\\webhooktest\\webhooktest\\webhooktest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|solutionrelative:webhooktest\\webhooktest.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|d:\\if\\etc\\webhook\\test\\webhooktest\\webhooktest\\webhooktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|solutionrelative:webhooktest\\webhooktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|d:\\if\\etc\\webhook\\test\\webhooktest\\webhooktest\\model\\samplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|solutionrelative:webhooktest\\model\\samplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|d:\\if\\etc\\webhook\\test\\webhooktest\\webhooktest\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|solutionrelative:webhooktest\\repositories\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|d:\\if\\etc\\webhook\\test\\webhooktest\\webhooktest\\model\\subscriptionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299DE31B-B9F2-491B-8C30-9BD436E7041B}|WebhookTest\\WebhookTest.csproj|solutionrelative:webhooktest\\model\\subscriptionrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebhookTest.http",
+              "DocumentMoniker": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\WebhookTest.http",
+              "RelativeDocumentMoniker": "WebhookTest\\WebhookTest.http",
+              "ToolTip": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\WebhookTest.http",
+              "RelativeToolTip": "WebhookTest\\WebhookTest.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-08T10:51:46.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebhookDispatch.cs",
+              "DocumentMoniker": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Services\\WebhookDispatch.cs",
+              "RelativeDocumentMoniker": "WebhookTest\\Services\\WebhookDispatch.cs",
+              "ToolTip": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Services\\WebhookDispatch.cs",
+              "RelativeToolTip": "WebhookTest\\Services\\WebhookDispatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:41:03.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Program.cs",
+              "RelativeDocumentMoniker": "WebhookTest\\Program.cs",
+              "ToolTip": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Program.cs",
+              "RelativeToolTip": "WebhookTest\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:30:08.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Repositories\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "WebhookTest\\Repositories\\InMemoryRepository.cs",
+              "ToolTip": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Repositories\\InMemoryRepository.cs",
+              "RelativeToolTip": "WebhookTest\\Repositories\\InMemoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:11:19.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscriptionRecord.cs",
+              "DocumentMoniker": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Model\\SubscriptionRecord.cs",
+              "RelativeDocumentMoniker": "WebhookTest\\Model\\SubscriptionRecord.cs",
+              "ToolTip": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Model\\SubscriptionRecord.cs",
+              "RelativeToolTip": "WebhookTest\\Model\\SubscriptionRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:09:13.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleModel.cs",
+              "DocumentMoniker": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Model\\SampleModel.cs",
+              "RelativeDocumentMoniker": "WebhookTest\\Model\\SampleModel.cs",
+              "ToolTip": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\Model\\SampleModel.cs",
+              "RelativeToolTip": "WebhookTest\\Model\\SampleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T10:07:33.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebhookTest",
+              "DocumentMoniker": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\WebhookTest.csproj",
+              "RelativeDocumentMoniker": "WebhookTest\\WebhookTest.csproj",
+              "ToolTip": "D:\\IF\\etc\\webhook\\test\\WebhookTest\\WebhookTest\\WebhookTest.csproj",
+              "RelativeToolTip": "WebhookTest\\WebhookTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-08T10:07:00.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
